@@ -1,6 +1,6 @@
-#navbar-menu {
-	width: 100%;
-	text-align: center;
+.navbar-brand > h1 {
+	font-size: 1.5rem;
+	margin-bottom: 0;
 }
 
 #navbar-menu .nav-item {
@@ -11,14 +11,9 @@
 	background-color: #626a71;
 }
 
-h1 {
-	font-size: 1.75rem;
-	margin-top: 1.5rem;
-	margin-bottom: 1.5rem;
-}
-
 h2 {
-	font-size: 1.25rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.25rem;
 }
 
 p {
